@@ -37,7 +37,6 @@ dependencies:
 
   # WebView support
   flutter_inappwebview: ^6.0.0
-  webview_cookie_manager: ^2.0.6
 
   # State management
   provider: ^6.1.2
